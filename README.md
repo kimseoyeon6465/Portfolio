@@ -45,7 +45,7 @@
 
 ## 🗂 프로젝트 <a id="프로젝트"></a>
 ---
-###🌸 DasiBom – 온라인 도서 커머스 플랫폼
+##🌸 DasiBom – 온라인 도서 커머스 플랫폼
 
 기간: 2025.06.10 ~ 2025.06.30
 팀원: 5명
@@ -77,7 +77,7 @@
 https://github.com/kimseoyeon6465/Dasibom
 
 ---
-###🍽 MatjipON – 식당 웨이팅·관리 시스템
+##🍽 MatjipON – 식당 웨이팅·관리 시스템
 
 기간: 2025.04.15 ~ 2025.04.28
 팀원: 4명
@@ -106,7 +106,7 @@ https://github.com/kimseoyeon6465/Dasibom
 https://github.com/kimseoyeon6465/MatjipON
 
 ---
-###🧠 Python Algorithm – 알고리즘 학습 프로젝트
+##🧠 Python Algorithm – 알고리즘 학습 프로젝트
 
 기간: 2022.03 ~ 2022.06
 팀원: 개인 프로젝트
@@ -134,7 +134,7 @@ https://github.com/kimseoyeon6465/MatjipON
 https://github.com/kimseoyeon6465/Algorithm
 
 ---
-###💣 C++ 지뢰찾기 게임 – 콘솔 게임 프로젝트
+##💣 C++ 지뢰찾기 게임 – 콘솔 게임 프로젝트
 
 기간: 2022.10
 팀원:개인 프로젝트
@@ -183,7 +183,7 @@ https://github.com/kimseoyeon6465/Minesweeper
 -프론트엔드 및 API 활용을 포함한 웹 서비스 개발 과정을 팀 프로젝트로 수행함.
     
 ## 🏆 자격증 및 수상 내역 <a id="자격증-및-수상-내역"></a>
-• 홍익대학교 게임 공모전 우수상 수상- 노아조 'INSOMNIA'(2022.03)
+• 홍익대학교 게임 공모전 우수상 수상- 노아조 'INSOMNIA'(2022.03)<br>
 • 정보처리기사(필기 합격)-한국산업인력공단(2025.06)
 
 ## 💼 경력사항 <a id="경력사항"></a>
