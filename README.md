@@ -1,4 +1,4 @@
-#📁 portfolio
+# 📁 portfolio
 
 ## 📌 목차
 - [자기소개](#자기소개)
