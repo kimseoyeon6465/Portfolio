@@ -2,7 +2,7 @@
 ---
 ## 👩‍💻 About me <a id="자기소개"></a>
 <div align="center">
-<h3>김서연 | Kim Seoyeon</h3>
+<h2>김서연 | Kim Seoyeon</h2>
   <h3>🙋‍♀️💡 시행착오를 줄이기 위해 더 많이 도전하는 개발자입니다.</h3>
 </div>
 <div align="center">
