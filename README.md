@@ -29,8 +29,8 @@
 <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 </div>
----
 
+--- 
 ## 📌 목차
 - [자기소개](#자기소개)
 - [프로젝트](#프로젝트)
