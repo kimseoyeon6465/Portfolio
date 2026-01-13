@@ -5,29 +5,40 @@
 <h2>김서연 | Kim Seoyeon</h2>
   <h3>🙋‍♀️💡 시행착오를 줄이기 위해 더 많이 도전하는 개발자입니다.</h3>
 </div>
-<div align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<div align="center" style="font-size:0;">
+  <span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge">
+  </span>
+</div>
 
-<br/>
+<div align="center" style="font-size:0;">
+  <span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/jsp-007396?style=for-the-badge">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  </span>
+</div>
 
-<img src="https://img.shields.io/badge/jsp-007396?style=for-the-badge">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-<br/>
-
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<br/>
-
-<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
+<div align="center" style="font-size:0;">
+  <span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  </span><span style="display:inline-block; width:25%;">
+    <img style="font-size:14px;" src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </span>
 </div>
 
 --- 
@@ -47,7 +58,7 @@
 
 ### 🌸 DasiBom – 온라인 도서 커머스 플랫폼
 
-기간: 2025.06.10 ~ 2025.06.30
+기간: 2025.06.10 ~ 2025.06.30<br>
 팀원: 5명
 
 💡프로젝트 설명<br>
@@ -77,7 +88,7 @@ https://github.com/kimseoyeon6465/Dasibom
 ---
 ### 🍽 MatjipON – 식당 웨이팅·관리 시스템
 
-기간: 2025.04.15 ~ 2025.04.28
+기간: 2025.04.15 ~ 2025.04.28<br>
 팀원: 4명
 
 💡프로젝트 설명<br>
@@ -98,7 +109,7 @@ https://github.com/kimseoyeon6465/Dasibom
 • 데이터 변경 사항을 UI에 반영하는 흐름 이해<br>
 
 💡기술 스택<br>
-• Java, Java Swing, JDBC, Oracle
+• Java, JDBC, Oracle
 
 🔗GitHub
 https://github.com/kimseoyeon6465/MatjipON
@@ -106,7 +117,7 @@ https://github.com/kimseoyeon6465/MatjipON
 ---
 ### 🧠 Python Algorithm – 알고리즘 학습 프로젝트
 
-기간: 2022.03 ~ 2022.06
+기간: 2022.03 ~ 2022.06<br>
 팀원: 개인 프로젝트
 
 💡프로젝트 설명<br>
@@ -134,14 +145,14 @@ https://github.com/kimseoyeon6465/Algorithm
 ---
 ### 💣 C++ 지뢰찾기 게임 – 콘솔 게임 프로젝트
 
-기간: 2022.10
+기간: 2022.10<br>
 팀원:개인 프로젝트
 
 💡프로젝트 설명<br>
 • C++ 기반 콘솔 환경에서 구현한 지뢰찾기 게임<br>
 
 💡기획 의도<br>
-• 2차원 데이터 구조와 재귀 알고리즘을 실제 게임 로직에 적용해보기 위해 기획<br>
+• 데이터 구조와 재귀 알고리즘을 실제 게임 로직에 적용해보기 위해 기획<br>
 • 게임 로직을 통해 상태 관리와 조건 분기 구조를 학습하고자 함<br>
 
 ✨담당 업무<br>
