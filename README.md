@@ -85,6 +85,9 @@
 🔗GitHub<br>
 https://github.com/kimseoyeon6465/Dasibom
 
+🎥YouTube<br>
+https://www.youtube.com/watch?v=BgfCU3VaJDs
+
 ---
 ### 🍽 MatjipON – 식당 웨이팅·관리 시스템
 
@@ -111,8 +114,44 @@ https://github.com/kimseoyeon6465/Dasibom
 💡기술 스택<br>
 • Java, JDBC, Oracle
 
-🔗GitHub
+🔗GitHub<br>
 https://github.com/kimseoyeon6465/MatjipON
+
+🎥YouTube<br>
+https://www.youtube.com/watch?v=3oiHsrP-0ZQ
+
+---
+### 🏰 Escape Tower – 3D 방탈출 게임
+
+기간: 2022.09 ~ 2023.05<br>
+팀원: 개인 프로젝트
+
+💡프로젝트 설명<br>
+• 게임 진행 흐름에 따라 카메라 시점, 퍼즐 상태, 아이템 수집 상태가 연속적으로 변화하는 3D 방탈출 게임<br>
+
+💡기획 의도<br>
+• 단순 조작 중심의 게임이 아닌, **상태 전환과 상호작용 로직을 중심으로 한 시스템 구조**를 설계하기 위해 기획<br>
+• 카메라·퍼즐·UI·아이템 시스템이 서로 영향을 주는 구조를 직접 구현하며 로직 흐름을 이해하고자 함.<br>
+
+✨담당 업무<br>
+• 마우스 입력 기반 퍼즐 상호작용 로직 구현<br>
+• Coroutine 기반 상태 변화 연출 및 이벤트 흐름 제어<br>
+• RenderTexture 기반 미니맵 UI 시스템 구현<br>
+• Key 아이템 수집 및 태그 기반 상호작용 로직 설계<br>
+
+✨성과<br>
+• 시점 전환, 퍼즐 상태, 아이템 수집이 연결된 **상태 관리 구조 설계 경험**<br>
+• 입력 이벤트 → 좌표 변환 → 오브젝트 제어로 이어지는 상호작용 흐름 이해<br>
+• Coroutine을 활용한 비동기 처리와 게임 상태 전환 타이밍 제어 경험 축적<br>
+
+💡기술 스택<br>
+• Unity, C#
+
+🔗GitHub<br>
+https://github.com/kimseoyeon6465/Escape-Tower
+
+🎥YouTube<br>
+https://www.youtube.com/watch?v=HS-QF0Z39VY
 
 ---
 ### 🧠 Python Algorithm – 알고리즘 학습 프로젝트
@@ -139,7 +178,7 @@ https://github.com/kimseoyeon6465/MatjipON
 💡기술 스택<br>
 • Python
 
-🔗GitHub
+🔗GitHub<br>
 https://github.com/kimseoyeon6465/Algorithm
 
 ---
@@ -168,8 +207,12 @@ https://github.com/kimseoyeon6465/Algorithm
 💡기술 스택<br>
 • C++
 
-🔗GitHub
+
+🔗GitHub<br>
 https://github.com/kimseoyeon6465/Minesweeper
+
+🎥YouTube<br>
+https://www.youtube.com/watch?v=CK9b8Uc0fAY
 
 ---
 ## 🛠 보유기술 <a id="보유기술"></a>
